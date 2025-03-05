@@ -1,5 +1,4 @@
 # SE-day-4-Software-Project-Management
-SE_DAY4_Software-Project-Management
 
 Why is timely delivery crucial in software project management, and how can project managers ensure deadlines are met?
 How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
